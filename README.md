@@ -4,7 +4,7 @@
 <a href="https://discord.com/users/365413224910422016" rel="nofollow">
 	 	<img alt="yeun's discord profile" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </a>
-<a href="https://discord.com/users/605010128521003008" rel="nofollow">
+<a href="https://www.facebook.com/adriel.donato.7798" rel="nofollow">
 	 	<img alt="yeun's" src="https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=facebook&logoColor=1877F2" >
 </a>
 
