@@ -1,4 +1,12 @@
-### Hi there 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=AFF74C&width=435&lines=Hello+World!;work+in-progress" alt="Typing SVG" /></a>
+<hr>
+<h3>💬 socials</h3>
+<a href="https://discord.com/users/365413224910422016" rel="nofollow">
+	 	<img alt="yeun's discord profile" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+<a href="https://discord.com/users/605010128521003008" rel="nofollow">
+	 	<img alt="yeun's" src="https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=facebook&logoColor=1877F2" >
+</a>
 
 <!--
 **yeunnn/yeunnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
